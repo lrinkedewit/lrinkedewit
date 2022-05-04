@@ -4,6 +4,10 @@
 
 [![lrinkedewit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lrinkedewit&show_icons=true&theme=algolia&custom_title=Leonoor+Stats)](https://github.com/lrinkedewit/github-readme-stats) 
 
+<div id="header" align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif" width="100"/>
+</div>
+
 ![counter](https://en6k3d9948ojyq1.m.pipedream.net)
 
 ## About me
