@@ -6,23 +6,17 @@
 
 ![counter](https://en6k3d9948ojyq1.m.pipedream.net)
 
+## About me
+- 🔭 I’m working on Mist, an observability tool for running serverless functions in a local dev environment
+- 🌱 I’m currently learning about durable objects in Cloudflare
+- 👯 I’m looking to collaborate on awesome new tech with cutting edge tools
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun fact: I was part of the MIT Flying Club during my college years
+- 💬 Ask me about: my favorite tech
+
 ## Where to find me 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/lrinkedewit)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/leonoorrinkedewit/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lrinkedewit@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lrinkedewit/what-is-mist-3902e46f037c)
 
-<!--
-**lrinkedewit/lrinkedewit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
