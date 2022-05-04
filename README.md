@@ -19,4 +19,4 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lrinkedewit/what-is-mist-3902e46f037c)
 
 [![lrinkedewit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lrinkedewit&hide=contribs&count_private=true&show_icons=true&theme=algolia)](https://github.com/lrinkedewit/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lrinkedewit&layout=compact&theme=algolia)](https://github.com/lrinkedewit/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lrinkedewit&langs_count=5&theme=algolia)](https://github.com/lrinkedewit/github-readme-stats) 
