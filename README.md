@@ -1,4 +1,4 @@
-<h2 align="center">Hello stranger, glad to find you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2 align="center">Hello stranger, glad you're here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231CF7E3&size=28&duration=3000&width=1000&lines=Welcome+to+my+GitHub,+home+to+all+my+collabs.;Back+end+dev+spezializing+in+cloud+observability.;Based+in+Amsterdam,+but+working+globally.)](https://git.io/typing-svg)
 
