@@ -9,7 +9,7 @@
 ## About me
 Hi, I'm Leonoor! I'm primarily a backend engineer but I'm comfortable across the stack (JavaScript / React / Express). My recent work has been developing cloud integration technologies, specifically building observability tools to assess performance in serverless architectures. I'm passionate about building great dev experiences and contributing to open-source products.
 
-## Tech
+## 🛠️ Tech
 ‣ JavaScript-ES6+
 ‣ SQL
 ‣ GraphQL
