@@ -4,10 +4,8 @@
 
 [![lrinkedewit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lrinkedewit&show_icons=true&theme=algolia&custom_title=Leonoor+Stats)](https://github.com/lrinkedewit/github-readme-stats) 
 
-<img src="https://komarev.com/ghpvc/?username=lrinkedewit&style=flat-square&color=blue" alt=""/>
-<!-- 
 ![counter](https://en6k3d9948ojyq1.m.pipedream.net)
- -->
+
 ## About me
 Hi, I'm Leonoor! I'm primarily a backend engineer but I'm comfortable across the stack (JavaScript / React / Express). My recent work has been developing cloud integration technologies, specifically building observability tools to assess performance in serverless architectures. I'm passionate about building great dev experiences and contributing to open-source products.
 
