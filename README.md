@@ -1,6 +1,6 @@
-<h2 align="center">Hi there, good to see you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2 align="center">Hi there, glad to find you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231CF7E3&size=28&duration=3000&width=1000&lines=Welcome+to+my+GitHub;I'm+a+back+end+dev+spezializing+in+cloud+observability+tools;Based+in+Amsterdam,+but+working+globally.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231CF7E3&size=28&duration=3000&width=1000&lines=Welcome+to+my+GitHub+where+all+tech+is+welcome;Back+end+dev+spezializing+in+cloud+observability;Based+in+Amsterdam,+but+working+globally.)](https://git.io/typing-svg)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lrinkedewit)
 
