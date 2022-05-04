@@ -4,45 +4,38 @@
 
 [![lrinkedewit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lrinkedewit&show_icons=true&theme=algolia&custom_title=Leonoor+Stats)](https://github.com/lrinkedewit/github-readme-stats) 
 
-<div id="header" align="right">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif" width="400"/>
-</div>
-
+<img src="https://komarev.com/ghpvc/?username=lrinkedewit&style=flat-square&color=blue" alt=""/>
+<!-- 
 ![counter](https://en6k3d9948ojyq1.m.pipedream.net)
-
+ -->
 ## About me
 Hi, I'm Leonoor! I'm primarily a backend engineer but I'm comfortable across the stack (JavaScript / React / Express). My recent work has been developing cloud integration technologies, specifically building observability tools to assess performance in serverless architectures. I'm passionate about building great dev experiences and contributing to open-source products.
 
 ## Tech
-
-(Query / Markup) Languages
 ‣ JavaScript-ES6+
 ‣ SQL
 ‣ GraphQL
 ‣ HTML5/CSS3 (SASS/SCSS)
 ‣ YAML
 ‣ MD
-Frameworks and Libraries
 ‣ React.js (Hooks, Router)
 ‣ Node.js
 ‣ Express.js
 ‣ Axios
 ‣ Svelte
 ‣ SvelteKit
-Databases
 ‣ Bundling (Webpack, Rollup, Babel)
 ‣ WebSockets
 ‣ RESTful Architecture
 ‣ Testing (Jest, Puppeteer, Enzyme,
 SuperTest)
-Cloud
 ‣ Cloudflare (+ Miniflare) ‣ Wrangler CLI
 ‣ Serverless Functions
 ‣ OpenTelemetry
 ‣ AWS (S3, EC2)
   
 
-## Where to find me 
+## Get in touch!
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/lrinkedewit)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/leonoorrinkedewit/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lrinkedewit@gmail.com)
