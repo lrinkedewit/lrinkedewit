@@ -6,7 +6,7 @@
 
 ![counter](https://en6k3d9948ojyq1.m.pipedream.net)
 
-## About me
+## 🧩 About me
 Hi, I'm Leonoor! I'm primarily a backend engineer but I'm comfortable across the stack (JavaScript / React / Express). My recent work has been developing cloud integration technologies, specifically building observability tools to assess performance in serverless architectures. I'm passionate about building great dev experiences and contributing to open-source products.
 
 ## 🛠️ Tech
@@ -33,7 +33,7 @@ SuperTest)
 ‣ AWS (S3, EC2)
   
 
-## Get in touch!
+## 🎯 Get in touch!
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/lrinkedewit)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/leonoorrinkedewit/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lrinkedewit@gmail.com)
