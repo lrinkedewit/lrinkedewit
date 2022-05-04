@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231CF7E3&size=28&duration=3400&width=1000&lines=Welcome+to+my+GitHub,+home+to+all+inventions.;Back+end+dev,+comfortable+throughout+the+stack.;Developer+on+Mist,+observability+tool+for+serverless.;Based+in+Amsterdam,+but+working+globally.)](https://git.io/typing-svg)
 
-![counter](https://en6k3d9948ojyq1.m.pipedream.net)
+<div align="center">![counter](https://en6k3d9948ojyq1.m.pipedream.net)</div>
 
 ## About me
 - ☁ I’m working on Mist, an observability tool for running serverless functions locally
