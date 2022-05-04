@@ -12,7 +12,7 @@
 - 🎬 I’m looking to collaborate on awesome new tech with cutting edge tools
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I was part of the MIT Flying Club during my college years
-- 💬 Ask me about: anything you wish
+- 💬 Ask me about: anything
 
 ## Where to find me 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/lrinkedewit)
