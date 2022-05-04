@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231CF7E3&size=28&duration=3400&width=1000&lines=Welcome+to+my+GitHub,+home+to+all+inventions.;Back+end+dev,+comfortable+throughout+the+stack.;Developer+on+Mist,+observability+tool+for+serverless.;Based+in+Amsterdam,+but+working+globally.)](https://git.io/typing-svg)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=lrinkedewit)
-
 ![counter](https://en6k3d9948ojyq1.m.pipedream.net)
 
 ## About me
@@ -21,3 +19,4 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lrinkedewit/what-is-mist-3902e46f037c)
 
 [![lrinkedewit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lrinkedewit&hide=contribs&count_private=true&show_icons=true&theme=algolia)](https://github.com/lrinkedewit/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lrinkedewit&layout=compact&theme=algolia)](https://github.com/lrinkedewit/github-readme-stats) 
