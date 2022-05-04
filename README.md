@@ -6,6 +6,12 @@
 
 ![counter](https://en6k3d9948ojyq1.m.pipedream.net)
 
+## Where to find me 
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/lrinkedewit)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/leonoorrinkedewit/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lrinkedewit@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lrinkedewit/what-is-mist-3902e46f037c)
+
 <!--
 **lrinkedewit/lrinkedewit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
