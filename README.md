@@ -1,4 +1,6 @@
-### Hi there, glad to see you! 
+<h2 align="center">Hi there, good to see you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231CF7E3&size=28&duration=3000&width=1000&lines=Welcome+to+my+GitHub;Back+End+Developer+spezializing+in+Cloud+Observability+Tools;Based+in+New+York+and+Amsterdam)](https://git.io/typing-svg)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lrinkedewit)
 
