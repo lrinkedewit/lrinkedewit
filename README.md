@@ -1,4 +1,6 @@
-<h2 align="center">Hello, I'm Leonoor!     <img src="https://montpellier-airport.com/typo3conf/ext/shopbox/Resources/Public/Images/loader.gif" width="60px"></h2>
+<h2 align="center">Hello, I'm Leonoor!</h2>
+
+<div style="width:100%;height:0;padding-bottom:86%;position:relative;"><iframe src="https://giphy.com/embed/TFO1T3sV3hy2KJASdz" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/zoom-nice-to-meet-you-virtually-TFO1T3sV3hy2KJASdz">via GIPHY</a></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%101c9ef7&size=28&duration=3400&width=1000&lines=Welcome+to+my+GitHub,+home+to+all+inventions.;Back+end+dev,+comfortable+throughout+the+stack.;Developer+on+Mist,+observability+tool+for+serverless.;Based+in+Amsterdam,+but+working+where+software+takes+me.)](https://git.io/typing-svg)
 
