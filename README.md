@@ -1,4 +1,4 @@
-<h2 align="center">Hello, I'm Leonoor! <img src="https://thumbs.gfycat.com/UnfitCriminalGermanwirehairedpointer-size_restricted.gif" width="60px"></h2>
+<h2 align="center">Hello, I'm Leonoor!     <img src="https://thumbs.gfycat.com/UnfitCriminalGermanwirehairedpointer-size_restricted.gif" width="60px"></h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%101c9ef7&size=28&duration=3400&width=1000&lines=Welcome+to+my+GitHub,+home+to+all+inventions.;Back+end+dev,+comfortable+throughout+the+stack.;Developer+on+Mist,+observability+tool+for+serverless.;Based+in+Amsterdam,+but+working+where+software+takes+me.)](https://git.io/typing-svg)
 
