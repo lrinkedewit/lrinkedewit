@@ -33,8 +33,6 @@ SuperTest)
 ‣ AWS (S3, EC2)
 
 
-  
-
 ## 🎯 Get in touch!
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/lrinkedewit)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/leonoorrinkedewit/)
