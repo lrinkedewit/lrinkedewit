@@ -7,7 +7,7 @@
 ![counter](https://en6k3d9948ojyq1.m.pipedream.net)
 
 ## 🧩 About me
-I'm primarily a backend engineer but I'm comfortable across the stack (JavaScript / React / Express). My recent work has been developing cloud integration technologies, specifically building observability tools to assess performance in serverless architectures. I'm passionate about building great dev experiences and contributing to open-source products.
+Hi, I’m a software engineer specializing in distributed systems, comfortable across the stack (React, Node, SQL, NoSQL). My recent work has been developing cloud integration technologies, specifically building observability tools to assess performance in serverless and microservice architectures. I'm passionate about building great dev experiences and contributing to open-source products.
 
 ## 🛠️ Tech
 ‣ JavaScript-ES6+
