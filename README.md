@@ -1,6 +1,6 @@
 <h2 align="center">Hello, I'm Leonoor!</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%101c9ef7&size=28&duration=3400&width=1000&lines=Welcome+to+my+GitHub.;Back+end+dev,+comfortable+across+the+stack.;Developer+on+Mist,+observability+tool+for+serverless.;Based+in+Amsterdam,+but+working+where+software+takes+me.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%101c9ef7&size=28&duration=3400&width=1000&lines=Welcome+to+my+GitHub.;Back+end+dev,+comfortable+across+the+stack.;Developer+on+Mist,+observability+tool+for+serverless.;Based+in+Europe,+but+working+where+software+takes+me.)](https://git.io/typing-svg)
 
 [![lrinkedewit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lrinkedewit&show_icons=true&theme=algolia&custom_title=Leonoor+Stats)](https://github.com/lrinkedewit/github-readme-stats) 
 
